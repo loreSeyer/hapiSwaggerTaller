@@ -1,0 +1,19 @@
+{
+  "name": "hapi-swagger",
+  "version": "1.0.0",
+  "description": "taller de hapi-swagger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreSeyer/hapiSwaggerTaller.git"
+  },
+  "author": "Lorena Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loreSeyer/hapiSwaggerTaller/issues"
+  },
+  "homepage": "https://github.com/loreSeyer/hapiSwaggerTaller#readme"
+}
